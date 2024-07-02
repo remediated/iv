@@ -3,12 +3,12 @@ featureful discord webhook spammer with proxy support
 
 # Features
 
-webhook validation
-webhook information
-proxy support
-message sending
-delay between messages
-webhook deletion
+- webhook validation
+- webhook information
+- proxy support
+- message sending
+- delay between messages
+- webhook deletion
 
 # requiremnts
 python 3.x +
