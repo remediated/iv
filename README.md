@@ -1,10 +1,10 @@
 # iv
 featureful discord webhook spammer with proxy support
 
-# features
+# Features
 
-webhook validation\n
-webhook infortmation
+webhook validation
+webhook information
 proxy support
 message sending
 delay between messages
