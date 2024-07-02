@@ -3,7 +3,7 @@ featureful discord webhook spammer with proxy support
 
 # features
 
-webhook validation
+webhook validation\n
 webhook infortmation
 proxy support
 message sending
