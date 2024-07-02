@@ -1,5 +1,5 @@
 # iv
-featureful discord webhook spammer with proxy support
+- featureful discord webhook spammer with proxy support
 
 # features
 
@@ -17,7 +17,7 @@ featureful discord webhook spammer with proxy support
 - run iv.exe, ill make it open sourced if requested
 
 # how it works
-iv validates discord webhooks, optionally uses proxies, and sends multiple messages with customizable delays, automated message spamming through discord webhooks
+- iv validates discord webhooks, optionally uses proxies, and sends multiple messages with customizable delays, automated message spamming through discord webhooks
 
 # support
 
